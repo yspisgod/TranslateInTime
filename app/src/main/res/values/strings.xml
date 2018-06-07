@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TranslateIntime</string>
+    <string name="app_name">即时翻</string>
     <string name="test">
         <accessibility-service
             xmlns:android="http://schemas.android.com/apk/res/android"
