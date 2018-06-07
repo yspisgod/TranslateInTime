@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TranslateIntime</string>
+    <string name="test">
+        <accessibility-service
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:accessibilityEventTypes="typeAllMask"
+            android:accessibilityFeedbackType="feedbackGeneric"
+            android:accessibilityFlags="flagDefault"
+            android:canRetrieveWindowContent="true"
+            android:description="此服务用于将复制的值翻译后显示出来"
+            android:notificationTimeout="10" />
+    </string>
+</resources>
