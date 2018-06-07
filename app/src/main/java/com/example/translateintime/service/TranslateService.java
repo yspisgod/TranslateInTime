@@ -94,7 +94,7 @@ public class TranslateService extends AccessibilityService {
         }
         //获取 text
         old=clip.getItemAt(0).getText().toString();
-        return old;
+        return old.toLowerCase().toString();
     }
 
     //通过网络获取翻译后的值
